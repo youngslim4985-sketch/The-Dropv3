@@ -1,0 +1,8 @@
+{
+  "name": "The Sommelier’s Table",
+  "description": "A luxury digital cultural house combining wine cellar management, rare wine drops, livestreams, and an artist community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
